@@ -5,6 +5,6 @@ package konflikt;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello from Wiktor!");
+        System.out.println("Proba numer 2");
     }
 }
